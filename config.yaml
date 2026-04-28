@@ -1,0 +1,7 @@
+path: # might need to use absolute path
+train:
+val: # validate dataset?
+
+# Classes
+names:
+    0: myclass
